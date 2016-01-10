@@ -1,0 +1,16 @@
+INDEX VERSION 1.127+C:\Users\ehunter\Documents\GitHub\hello-world\src\eclipse\workspace\.metadata\.plugins\org.eclipse.jdt.core
+2099956612.index
+2284360107.index
+1963291529.index
+1525465471.index
+3405400722.index
+1204921147.index
+1759029701.index
+1814567434.index
+1213663992.index
+3931814635.index
+1495708385.index
+3638631262.index
+900517010.index
+3161991787.index
+2281553403.index
